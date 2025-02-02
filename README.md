@@ -16,4 +16,4 @@ Where: Virginia Tech Creativity and Innovation District
 🌏 **Country:** Korea  
 🎓 **University:** Konkuk University  
 📚 **Majors:** Applied Statistics & Computer Science  
-
+📄 **Research Paper:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709
