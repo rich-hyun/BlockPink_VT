@@ -19,12 +19,13 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 📄 **Journal Article:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709  
 
 
-  
+ <img src="https://github.com/user-attachments/assets/31829436-01ae-4483-a977-6d98700ffbf4"  alt="증명사진" width="100px" height="auto" />  
+
 💫 **1st Member**  
-**Toby**  
-🌏 **Country:** [Country Name]  
-🎓 **University:** [University Name]  
-📚 **Majors:** [Member's Major]  
+**Lam To Hing**  
+🌏 **Country:** Hong Kong, China  
+🎓 **University:** University of Hong Kong    
+📚 **Majors:** Physics ( Computational Physics Track, minor in Computer Science)  
 
 
   
