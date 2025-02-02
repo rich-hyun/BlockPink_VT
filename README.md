@@ -35,7 +35,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 💫 **2nd Member**  
 **Maeva DANIELSON**  
 🌏 **Country:** FRANCE  
-🎓 **University:** École d’ingénieur de purp 
+🎓 **University:** École d’ingénieur de purp  
 📚 **Majors:** Food science and technology  
 
 
@@ -43,7 +43,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 💫 **3rd Member**  
 **Sasraseen**  
 🌏 **Country:** Hong Kong  
-🎓 **University:** The University of Hong Kong
+🎓 **University:** The University of Hong Kong  
 📚 **Majors:** Mechanical Engineering  
 
 
