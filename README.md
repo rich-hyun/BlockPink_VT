@@ -38,7 +38,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 
   
 💫 **3rd Member**  
-**Toby**  
+**Sasraseen**  
 🌏 **Country:** [Country Name]  
 🎓 **University:** [University Name]  
 📚 **Majors:** [Member's Major]  
