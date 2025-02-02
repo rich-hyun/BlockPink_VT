@@ -44,7 +44,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 📚 **Majors:** [Member's Major]  
 
 
-💫 **4rd Member**  
+💫 **4th Member**  
 **Benjamin Jilma**  
 🌏 **Country:** Austria  
 🎓 **University:** Bocconi University  
