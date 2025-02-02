@@ -17,3 +17,11 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 🎓 **University:** Konkuk University  
 📚 **Majors:** Applied Statistics & Computer Science  
 📄 **Journal Article:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709
+
+
+
+💫 **1st Member**  
+**[Member Name]**  
+🌏 **Country:** [Country Name]  
+🎓 **University:** [University Name]  
+📚 **Majors:** [Member's Major]  
