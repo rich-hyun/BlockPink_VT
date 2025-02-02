@@ -6,7 +6,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 👨‍🏫 **Lead Professor:**
 
 
-**Operator**
+**Operator**  
 🚀 **1st President**  
 **JAEHYUN KIM (DEX)**  
 
