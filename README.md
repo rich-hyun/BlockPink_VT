@@ -1,9 +1,9 @@
 # BlockPink_VT
 A blockchain revolution as powerful as BLACKPINK's impact!
 
-When: Every Tuesday 9pm to 10pm
-Where: Virginia Tech Creativity and Innovation District
-Lead Professor:
+🗓️ **When:** Every Tuesday, 9 PM to 10 PM  
+📍 **Where:** Virginia Tech Creativity and Innovation District  
+👨‍🏫 **Lead Professor:**
 
 🚀 **1st President**  
 **JAEHYUN KIM (DEX)**  
