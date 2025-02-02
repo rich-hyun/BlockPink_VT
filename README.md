@@ -19,7 +19,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 📄 **Journal Article:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709  
 
 
-
+  
 💫 **1st Member**  
 **Toby**  
 🌏 **Country:** [Country Name]  
@@ -27,9 +27,17 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 📚 **Majors:** [Member's Major]  
 
 
-
+  
 💫 **2nd Member**  
-**Maevva DANIELSON**  
+**Maeva DANIELSON**  
 🌏 **Country:** FRANCE  
 🎓 **University:** École d’ingénieur de purpan  
 📚 **Majors:** Food science and technology  
+
+
+  
+💫 **3rd Member**  
+**Toby**  
+🌏 **Country:** [Country Name]  
+🎓 **University:** [University Name]  
+📚 **Majors:** [Member's Major]  
