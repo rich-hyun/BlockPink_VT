@@ -5,6 +5,8 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 📍 **Where:** Virginia Tech Creativity and Innovation District  
 👨‍🏫 **Lead Professor:**
 
+
+**Operator**
 🚀 **1st President**  
 **JAEHYUN KIM (DEX)**  
 
