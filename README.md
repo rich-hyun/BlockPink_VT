@@ -16,7 +16,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 🌏 **Country:** Korea  
 🎓 **University:** Konkuk University  
 📚 **Majors:** Applied Statistics & Computer Science  
-📄 **Journal Article:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709
+📄 **Journal Article:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709  
 
 
 
