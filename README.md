@@ -34,6 +34,8 @@ A blockchain revolution as powerful as BLACKPINK's impact!
   
 💫 **2nd Member**  
 **Maeva DANIELSON**  
+<img src="https://github.com/user-attachments/assets/37c80e32-6ba3-4089-b732-490251a056fa" alt="증명사진" width="100px" height="auto" />
+
 🌏 **Country:** FRANCE  
 🎓 **University:** École d’ingénieur de purp  
 📚 **Majors:** Food science and technology  
