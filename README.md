@@ -43,7 +43,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 
   
 💫 **3rd Member**  
-**Sraseen Gurung**  
+**Srazeen Gurung**  
 🌏 **Country:** Hong Kong  
 🎓 **University:** The University of Hong Kong  
 📚 **Majors:** Mechanical Engineering  
