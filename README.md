@@ -2,11 +2,20 @@
 A blockchain revolution as powerful as BLACKPINK's impact!
 
 🗓️ **When:** Every Tuesday, 9 PM to 10 PM  
-📍 **Where:** Virginia Tech Creativity and Innovation District  
+📍 **Where:** Virginia Tech Creativity and Innovation District   
+
 👨‍🏫 **Lead Professor:**  
 **Murat Kantarcioglu**  
 ![enlarged_image](https://github.com/user-attachments/assets/b323516d-c3dc-46ef-a4b9-e6aeafec70e6)  
 
+- **Ph.D. in Computer Science**   
+  Purdue University, 2005  
+
+- **Graduate Certificate in Applied Statistics**    
+  Purdue University, 2005
+
+- **B.S. in Computer Engineering with Minor in Finance**  
+  Middle East Technical University, Ankara, Turkey, 2000
 
 
 
@@ -64,13 +73,13 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 
 💫 **5th Member**  
 **Marina Romano**  
-🌏 **Country:** Italia 
+🌏 **Country:** Italia  
 🎓 **University:** Bocconi University  
 📚 **Majors:** Economics and Managment  
 
 
 💫 **6th Member**  
 **Sonia Borsi**  
-🌏 **Country:** Italia 
+🌏 **Country:** Italia  
 🎓 **University:** University of Trento  
 📚 **Majors:** Data Science  
