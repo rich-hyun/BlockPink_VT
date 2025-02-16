@@ -83,3 +83,9 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 🌏 **Country:** Italia  
 🎓 **University:** University of Trento  
 📚 **Majors:** Data Science  
+
+💫 **7th Member**  
+**Miguel Cartagena**  
+🌏 **Country:** Spain  
+🎓 **University:** University of Alicante  
+📚 **Majors:** Biomedical Engineering  
