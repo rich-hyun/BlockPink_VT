@@ -2,7 +2,7 @@
 A blockchain revolution as powerful as BLACKPINK's impact!
 
 🗓️ **When:** Every Tuesday, 9 PM to 10 PM  
-📍 **Where:** Virginia Tech Creativity and Innovation District   
+📍 **Where:** Virginia Tech Creativity and Innovation District or Newman Library  
 
 👨‍🏫 **Lead Professor:**  
 **Murat Kantarcioglu**  
