@@ -6,7 +6,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 
 👨‍🏫 **Lead Professor:**  
 **Murat Kantarcioglu**  
-![enlarged_image](https://github.com/user-attachments/assets/b323516d-c3dc-46ef-a4b9-e6aeafec70e6)  
+<img src="https://github.com/user-attachments/assets/b323516d-c3dc-46ef-a4b9-e6aeafec70e6" width="150">  
 
 - **Ph.D. in Computer Science**   
   Purdue University, 2005  
@@ -14,14 +14,24 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 - **Graduate Certificate in Applied Statistics**    
   Purdue University, 2005
 
-- **B.S. in Computer Engineering with Minor in Finance**  
-  Middle East Technical University, Ankara, Turkey, 2000
+
+## 🏆 Advisors & Contributors
+
+### 🔹 Advisors
+These individuals have provided valuable insights and guidance for our research and development.
+
+- **Dr. Kolawole Ogunsina**
+<img src="https://github.com/user-attachments/assets/9a131732-a9eb-4700-928b-6a0eed35a3eb" width="150">  
+
+  - **Current Position**: Data Scientist at JetBlue (since June 2022)  
+  - **Expertise**: AI-driven airline disruption management, optimization, aerospace engineering  
+  - **Education**: Ph.D. in Aerospace, Aeronautical, and Astronautical Engineering from Purdue University  
+
+### 🔹 Networking Contributors
+These individuals have helped us connect with key people in the field.
 
 
-
-
-
-**Operator**  
+## 🏆 Operator
 🚀 **1st President**  
 **JAEHYUN KIM (DEX)**  
 
@@ -36,7 +46,7 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 📄 **Journal Article:** https://public.thinkonweb.com/journals/jkiisc/digital-library/101709  
 
 
-
+## 🏆 Member
 
 💫 **1st Member**  
 **Lam To Hing**  
