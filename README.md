@@ -8,11 +8,10 @@ A blockchain revolution as powerful as BLACKPINK's impact!
 **Murat Kantarcioglu**  
 <img src="https://github.com/user-attachments/assets/b323516d-c3dc-46ef-a4b9-e6aeafec70e6" width="150">  
 
-- **Ph.D. in Computer Science**   
+- **Ph.D. in Computer Science**  
   Purdue University, 2005  
 
-- **Graduate Certificate in Applied Statistics**    
-  Purdue University, 2005
+- **Professor at Virginia Tech**  
 
 
 ## 🏆 Advisors & Contributors
